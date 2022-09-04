@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-fwrite-Bagian2__C\SK-Lib-stdio.h-fwrite-Bagian2__C\Source.c(15,13): warning C4013: 'fork' undefined; assuming extern returning int
+Source.obj : error LNK2019: unresolved external symbol fork referenced in function main
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-fwrite-Bagian2__C\x64\Debug\SK-Lib-stdio.h-fwrite-Bagian2__C.exe : fatal error LNK1120: 1 unresolved externals
